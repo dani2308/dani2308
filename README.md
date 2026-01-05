@@ -30,9 +30,8 @@ Bachelor’s degree in Computer Engineering and Cybersecurity student.
 <h2> Software Development Projects:</h2>
 
 - <b>Cybersecurity System for Real-Time Anomaly Detection</b>
-  - [CSRTAD]([https://github.com/](https://github.com/dani2308/scadatr))
+  - [[CSRTAD](https://github.com/dani2308/scadatr)]
     
-
 <h2> Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
