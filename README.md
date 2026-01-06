@@ -9,6 +9,8 @@ Bachelor’s degree in Computer Engineering and Cybersecurity student.
 
 ## Cybersecurity Projects:</h2>
 
+  - <b>Enterprise Security Assessment and Incident Response Case Study (Supermarket)</b> [[reports](https://github.com/dani2308/supermarket-security-case)]
+  
 ## Labs & Hands-on Practice</h2>
 
 ## Certifications
