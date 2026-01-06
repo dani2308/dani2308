@@ -30,7 +30,10 @@ Bachelor’s degree in Computer Engineering and Cybersecurity student.
 <h2> Software Development Projects:</h2>
 
 - <b>Cybersecurity System for Real-Time Anomaly Detection</b>
-  - [[CSRTAD](https://github.com/dani2308/scadatr)]
+  - [[scadatr](https://github.com/dani2308/scadatr)]
+
+- <b>Secure Flask API with OAuth</b>
+  - [[secure_flaskAPI_OAuth](https://github.com/dani2308/secure_flaskAPI_OAuth)]
     
 <h2> Connect with me:</h2>
 
