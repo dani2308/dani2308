@@ -10,6 +10,7 @@ Bachelor’s degree in Computer Engineering and Cybersecurity student.
 ## Cybersecurity Projects:</h2>
 
   - <b>Enterprise Security Assessment and Incident Response Case Study (Supermarket)</b> [[supermarket-security-case](https://github.com/dani2308/supermarket-security-case)]
+  - <b>Controlled Pentesting Lab Case Study</b> [[controlled-pentesting-lab-case-study](https://github.com/dani2308/controlled-pentesting-lab-case-study)]
   
 ## Labs & Hands-on Practice</h2>
 
