@@ -2,7 +2,7 @@
 
 
 <p>
-Bachelor’s degree in Computer Engineering and Cybersecurity student.
+Bachelor’s degree in Computer Engineering and Postgraduate in Cybersecurity.
 </p>
 
 ---
