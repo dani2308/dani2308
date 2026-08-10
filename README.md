@@ -14,6 +14,22 @@ Bachelor’s degree in Computer Engineering and Cybersecurity student.
 
 ## Certifications
 
+### TryHackMe
+
+- **SOC Level 1 Certificate**
+  - Skills: Cyber Threat Intelligence, SIEM (Splunk, ELK), Packet Analysis (Wireshark), Endpoint Detection & Response (EDR), Incident Response, Log Analysis, Phishing Analysis, Network Traffic Analysis
+  - Issuer: TryHackMe
+  - Year: 2026
+  - Credential: [[SOC Level 1 Certificate](https://tryhackme.com/certificate/THM-TBWPHAYRDD)]
+    
+### Coursera
+
+- **Google Cybersecurity Professional Certificate**
+  - Skills: Incident Response, Security Information and Event Management (SIEM), Python Programming, SQL Data Analysis, Linux Terminal, Risk Assessment, IDS/IPS Frameworks, NIST Cybersecurity Framework (CSF)
+  - Issuer: Google
+  - Year: 2026
+  - Credential: [[Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/Q2LKNS09ACZV)]
+
 ### Cisco Networking Academy
   
 - **Network Technician Career Path**
